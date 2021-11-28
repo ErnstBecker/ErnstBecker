@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ernst Becker Neto, faço faculdade de Análise e Desenvolvimento de Sistemas e sou programador FULL STACK
+## Hello! I'm Ernst Becker Neto, I'm in Systems Analysis and Development and I'm a FULL STACK programmer
 <div align="center">
   <a href="https://github.com/ernstbeckerneto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
