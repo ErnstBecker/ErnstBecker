@@ -1,4 +1,4 @@
-## Hello! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and I'm a FULL STACK programmer.
+## Hello! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.
 <div align="center">
   <a href="https://github.com/ernstbeckerneto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -17,6 +17,8 @@
   <img align="center" alt="Ernst-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Ernst-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Ernst-Bootstrap" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   
   <img align="center" alt="Ernst-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
