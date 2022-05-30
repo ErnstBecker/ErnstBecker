@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstbeckerneto&layout=compact&langs_count=4&theme=gotham"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ernst-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <img align="center" alt="Ernst-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,9 +22,9 @@
     
 </div>
   
-  ##
+<hr>
 
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCVqOAIhGFiG-eJljsq1ELLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ernst_becker_neto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ErnstBeckerNeto" target="_blank"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
@@ -32,5 +32,6 @@
   <a href = "mailto:ernst.becker.neto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+
 ![Snake animation](https://github.com/ernstbeckerneto/ernstbeckerneto/blob/output/github-contribution-grid-snake.svg)
- 
+
