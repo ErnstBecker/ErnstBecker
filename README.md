@@ -41,7 +41,9 @@
 </div>
 
 <h3>My Favorites Extensions for VSCode</h3>
-<a href="https://marketplace.visualstudio.com/items?itemName=apvarun.celestial"><img width="50" height="50" src="https://cdn.discordapp.com/attachments/1001106471536300164/1001106498983821343/unknown.png"></img></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=apvarun.celestial"><img width="50" height="50" src="https://cdn.discordapp.com/attachments/1001106471536300164/1001116053767737374/Celestial.png"></img></a>
+  
+<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"><img width="50" height="50" src="https://cdn.discordapp.com/attachments/1001106471536300164/1001116071148920923/Code_Runner.png"></img></a>
 
 ![Snake animation](https://github.com/ernstbeckerneto/ernstbeckerneto/blob/output/github-contribution-grid-snake.svg)
 
