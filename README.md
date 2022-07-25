@@ -3,9 +3,9 @@
 <h3>GITHUB STATS<h3>
 <div align="center">
 
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
   
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstbeckerneto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstbeckerneto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
   
   <br>
   
