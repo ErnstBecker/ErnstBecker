@@ -1,4 +1,4 @@
-# Hello! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.
+<h1 align="center"> Hello! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.</h1>
 <div align="center">
   <a href="https://github.com/ErnstBeckerNeto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
