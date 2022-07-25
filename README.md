@@ -1,8 +1,16 @@
-<h1 align="center"> Hello! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.</h1>
+<h1 align="center" style="color:#ff0043"> Hello! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.</h1>
+
+<h3>GITHUB STATS<h3>
 <div align="center">
-  <a href="https://github.com/ErnstBeckerNeto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstbeckerneto&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=5ce1e6"/>
+
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+  
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstbeckerneto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+  
+  <br>
+  
+  <p align="center"><img src="https://img.shields.io/github/watchers/ernstbeckerneto/ernstbeckerneto?color=%23ff0043&label=Profile%20Views"></p>
+  
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -32,6 +40,8 @@
   <a href = "mailto:ernst.becker.neto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<h2>My Favorites Extensions for VSCode</h2>
+<a href="https://marketplace.visualstudio.com/items?itemName=apvarun.celestial"><img width="50" height="50" src="https://cdn.discordapp.com/attachments/1001106471536300164/1001106498983821343/unknown.png"></img></a>
 
 ![Snake animation](https://github.com/ernstbeckerneto/ernstbeckerneto/blob/output/github-contribution-grid-snake.svg)
 
