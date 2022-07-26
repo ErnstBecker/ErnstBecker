@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff0043"> Hello! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.</h1>
+<h1 align="center" style="color:#ff0043"> Hello World! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.</h1>
 
 <h3>GITHUB STATS<h3>
 <div align="center">
