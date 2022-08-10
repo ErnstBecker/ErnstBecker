@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff0043"> Hello World! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.</h1>
+<h2 align="center" style="color:#ff0043"> Hello World! I'm Ernst Becker Neto, majoring in Systems Analysis and Development and a FULL STACK programmer.</h1>
 
 <h3>GITHUB STATS</h3>
 <div align="center">
@@ -8,13 +8,15 @@
   <p align="center"><img src="https://img.shields.io/github/watchers/ernstbeckerneto/ernstbeckerneto?color=%23ff0043&label=Profile%20Views"></p>
 </div>
 
+
 <h3>Social Media</h3>
 <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCVqOAIhGFiG-eJljsq1ELLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ernst_becker_neto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ErnstBeckerNeto" target="_blank"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-  <a href="https://twitter.com/ErnstBeckerNeto" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ernst.becker.neto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ErnstBeckerNeto" target="_blank"><img height="28" src="https://img.shields.io/badge/LinkedIn-ff0043?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ernst.becker.neto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff0043?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/ernst_becker_neto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0043?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/ErnstBeckerNeto" target="_blank"><img src="https://img.shields.io/badge/Twitter-ff0043?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCVqOAIhGFiG-eJljsq1ELLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0043?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 </div>
 
 <br>
