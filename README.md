@@ -1,10 +1,6 @@
 <div align="center">
   <img width="600" height="100"  src="gifs/HelloWorld.gif">
-  <h2> I'm Ernst Becker Neto, graduated in Systems Analysis and Development and a FULL STACK Dev</h1>
-
-  <a href="https://www.linkedin.com/in/ernstbeckerneto/">
-    <img width="600" height="100" src="gifs/ErnstBeckerNeto.gif">
-  </a>
+  <p> I'm <a href="https://www.linkedin.com/in/gifs/ernstbeckerneto/"><img width="240" height="40" src="gifs/ErnstBeckerNeto.gif"></a>, graduated in Systems Analysis and Development and a FULL STACK Dev</p>
 </div>
 
 
@@ -43,11 +39,6 @@
     <img height="48" src="icons/git.svg" alt="">
   </span>
 <div>
-
-<!-- <h3>My Favorites Extensions for VSCode</h3> -->
-<!--<a href="https://marketplace.visualstudio.com/items?itemName=apvarun.celestial"><img width="50" height="50" src="https://cdn.discordapp.com/attachments/1001106471536300164/1001116053767737374/Celestial.png"></img></a> -->
-<!--<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"><img width="158" height="50" src="https://cdn.discordapp.com/attachments/1001106471536300164/1001116071148920923/Code_Runner.png"></img></a> -->
-
 
 ![Snake animation](https://github.com/ernstbeckerneto/ernstbeckerneto/blob/output/github-contribution-grid-snake.svg)
 
