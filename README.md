@@ -1,3 +1,4 @@
+<img src="gifs/HelloWorld.gif">
 <h1 align="center">Hello World!</h1>
 <h2> I'm Ernst Becker Neto, graduated in Systems Analysis and Development and a FULL STACK Dev</h1>
 
