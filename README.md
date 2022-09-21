@@ -1,6 +1,12 @@
-<img src="gifs/HelloWorld.gif">
-<h1 align="center">Hello World!</h1>
-<h2> I'm Ernst Becker Neto, graduated in Systems Analysis and Development and a FULL STACK Dev</h1>
+<div align="center">
+  <img width="600" height="100"  src="gifs/HelloWorld.gif">
+  <h2> I'm Ernst Becker Neto, graduated in Systems Analysis and Development and a FULL STACK Dev</h1>
+
+  <a href="https://www.linkedin.com/in/ernstbeckerneto/">
+    <img width="600" height="100" src="gifs/ErnstBeckerNeto.gif">
+  </a>
+</div>
+
 
 <div align="center"> 
   <h3>📈 GITHUB STATS</h3>
