@@ -40,5 +40,7 @@
   </span>
 <div>
 
+<br>
+
 ![Snake animation](https://github.com/ernstbeckerneto/ernstbeckerneto/blob/output/github-contribution-grid-snake-sissa.svg)
 
