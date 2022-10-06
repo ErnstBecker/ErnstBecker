@@ -31,12 +31,12 @@
   <span>
     <img height="48" src="icons/py.svg" alt="Python">
     <img height="48" src="icons/js.svg" alt="JavaScript">
-    <img height="48" src="icons/ts.svg" alt="">
-    <img height="48" src="icons/reactjs.svg" alt="">
-    <img height="48" src="icons/nodejs.svg" alt="">
-    <img height="48" src="icons/html.svg" alt="">
-    <img height="48" src="icons/css.svg" alt="">
-    <img height="48" src="icons/git.svg" alt="">
+    <img height="48" src="icons/ts.svg" alt="TypeScript">
+    <img height="48" src="icons/reactjs.svg" alt="React.js">
+    <img height="48" src="icons/nodejs.svg" alt="Node.js">
+    <img height="48" src="icons/html.svg" alt="HTML">
+    <img height="48" src="icons/css.svg" alt="CSS">
+    <img height="48" src="icons/git.svg" alt="GIT">
   </span>
 <div>
 
