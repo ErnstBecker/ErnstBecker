@@ -38,6 +38,8 @@
     <img height="48" src="icons/html.svg" alt="HTML">
     <img height="48" src="icons/css.svg" alt="CSS">
     <img height="48" src="icons/git.svg" alt="GIT">
+    <img height="48" src="icons/git.svg" alt="JQuery">
+    <img height="48" src="icons/git.svg" alt="Figma">
   </span>
 <div>
 
