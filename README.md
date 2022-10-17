@@ -34,12 +34,12 @@
     <img height="48" src="icons/js.svg" alt="JavaScript">
     <img height="48" src="icons/ts.svg" alt="TypeScript">
     <img height="48" src="icons/reactjs.svg" alt="React.js">
-    <img height="48" src="icons/nodejs.svg" alt="Node.js">
+    <img height="48" src="icons/JQuery.svg" alt="JQuery">
     <img height="48" src="icons/html.svg" alt="HTML">
     <img height="48" src="icons/css.svg" alt="CSS">
+    <img height="48" src="icons/nodejs.svg" alt="Node.js">
     <img height="48" src="icons/git.svg" alt="GIT">
-    <img height="48" src="icons/git.svg" alt="JQuery">
-    <img height="48" src="icons/git.svg" alt="Figma">
+    <img height="48" src="icons/Figma.svg" alt="Figma">
   </span>
 <div>
 
