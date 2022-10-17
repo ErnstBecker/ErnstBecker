@@ -10,6 +10,7 @@
     <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=ernstbeckerneto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
     <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstbeckerneto&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
     <br>
+    <img src="https://komarev.com/ghpvc/?username=ErnstBeckerNeto&label=Profile%20views&color=ff0043&style=flat">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ernstbeckerneto?color=ff0043&label=follow&logo=github&logoColor=fff">
   </pan>
 </div>
