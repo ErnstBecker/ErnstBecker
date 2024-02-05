@@ -45,5 +45,5 @@
 
 <br>
 
-![Snake animation](https://github.com/ernstbeckerneto/ernstbeckerneto/blob/output/github-contribution-grid-snake-sissa.svg)
+![Snake animation](https://github.com/ernstdev/ernstdev/blob/output/github-contribution-grid-snake-sissa.svg)
 
