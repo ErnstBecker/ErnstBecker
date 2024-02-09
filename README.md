@@ -7,11 +7,11 @@
 <div align="center"> 
   <h3>📈 GITHUB STATS</h3>
   <span>
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=ernstdev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstdev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=ernstbecker&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernstbecker&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=ErnstDev&label=Profile%20views&color=ff0043&style=flat">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ernstdev?style=flat&logo=github&label=follow&color=ff0043">
+    <img src="https://komarev.com/ghpvc/?username=ernstbecker&label=Profile%20views&color=ff0043&style=flat">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ernstbecker?style=flat&logo=github&label=follow&color=ff0043">
   </pan>
 </div>
 
@@ -23,7 +23,7 @@
     <a href="mailto:ernst.becker.neto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff0043?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://instagram.com/ernst.py/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0043?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/ErnstBeckerNeto" target="_blank"><img src="https://img.shields.io/badge/Twitter-ff0043?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/@ErnstDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0043?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/@ErnstBecker" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0043?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </span>
 </div>
 
@@ -45,5 +45,5 @@
 
 <br>
 
-![Snake animation](https://github.com/ernstdev/ernstdev/blob/output/github-contribution-grid-snake-sissa.svg)
+![Snake animation](https://github.com/ernstbecker/ernstbecker/blob/output/github-contribution-grid-snake-sissa.svg)
 
