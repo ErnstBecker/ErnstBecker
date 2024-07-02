@@ -16,17 +16,6 @@
 </div>
 
 <div align="center">
-  <h3>🌐 SOCIAL MEDIA</h3>
-  <span> 
-    <a href="https://www.linkedin.com/in/ErnstBecker" target="_blank"><img height="28" src="https://img.shields.io/badge/LinkedIn-ff0043?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <br>
-    <a href="mailto:ernst.becker.neto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff0043?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://twitter.com/ErnstBecker_" target="_blank"><img src="https://img.shields.io/badge/Twitter-ff0043?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/@ErnstBecker_" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0043?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  </span>
-</div>
-
-<div align="center">
   <h3>💻 Technologies/Tools:</h3>
   <span>
     <img height="48" src="icons/py.svg" alt="Python">
