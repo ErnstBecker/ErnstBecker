@@ -18,6 +18,7 @@
 <div align="center">
   <h3>💻 Technologies/Tools:</h3>
   <span>
+    <img height="48" src="icons/Arch.svg" alt="Arch">
     <img height="48" src="icons/Python.svg" alt="Python">
     <img height="48" src="icons/JavaScript.svg" alt="JavaScript">
     <img height="48" src="icons/TypeScript.svg" alt="TypeScript">
