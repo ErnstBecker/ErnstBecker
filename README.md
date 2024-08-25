@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="600" height="100"  src="gifs/HelloWorld.gif">
+  <img width="500" height="100"  src="gifs/HelloWorld.gif">
   <p> I'm Ernst Becker, graduated in Systems Analysis and Development and a Full-Stack Engineer</p>
 </div>
 
 
-<div align="center"> 
+<div align="center">
   <h3>📈 GITHUB STATS</h3>
   <span>
     <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=ernstbecker&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
@@ -18,12 +18,13 @@
 <div align="center">
   <h3>💻 Technologies/Tools:</h3>
   <span>
-    <img height="48" src="icons/py.svg" alt="Python">
-    <img height="48" src="icons/js.svg" alt="JavaScript">
-    <img height="48" src="icons/ts.svg" alt="TypeScript">
-    <img height="48" src="icons/reactjs.svg" alt="React.js">
+    <img height="48" src="icons/Python.svg" alt="Python">
+    <img height="48" src="icons/JavaScript.svg" alt="JavaScript">
+    <img height="48" src="icons/TypeScript.svg" alt="TypeScript">
+    <img height="48" src="icons/Reactjs.svg" alt="React.js">
     <img height="48" src="icons/JQuery.svg" alt="JQuery">
-    <img height="48" src="icons/nodejs.svg" alt="Node.js">
+    <img height="48" src="icons/Nodejs.svg" alt="Node.js">
+    <img height="48" src="icons/TailwindCSS.svg" alt="Tailwind.js">
     <img height="48" src="icons/Figma.svg" alt="Figma">
   </span>
 <div>
@@ -31,4 +32,3 @@
 <br>
 
 ![Snake animation](https://github.com/ernstbecker/ernstbecker/blob/output/github-contribution-grid-snake-sissa.svg)
-
