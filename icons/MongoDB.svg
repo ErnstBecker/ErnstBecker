@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   fill="none"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="MongoDB.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050" />
+  <rect
+     width="256"
+     height="256"
+     fill="#023430"
+     rx="60"
+     id="rect1"
+     style="fill:#ff0043;fill-opacity:1"
+     x="0"
+     y="0" />
+  <path
+     fill="#10AA50"
+     d="M 171.173,107.591 C 160.636,61.1097 138.676,48.7357 133.074,39.9886 130.764,36.1353 128.717,32.1299 126.949,28 c -0.296,4.1292 -0.84,6.7307 -4.35,9.862 -7.047,6.2834 -36.9773,30.6734 -39.4962,83.486 -2.3468,49.242 36.2002,79.605 41.2922,82.744 3.916,1.927 8.685,0.041 11.012,-1.728 18.581,-12.752 43.969,-46.75 35.786,-94.773"
+     id="path1"
+     style="fill:#ffffff;fill-opacity:1" />
+  <path
+     fill="#B8C4C2"
+     d="m 128.545,177.871 c -0.97,12.188 -1.665,19.27 -4.129,26.235 0,0 1.617,11.603 2.753,23.894 h 4.019 c 0.959,-8.655 2.422,-17.247 4.384,-25.732 -5.203,-2.56 -6.827,-13.702 -7.027,-24.397 z"
+     id="path2"
+     style="fill:#ffffff;fill-opacity:1" />
+  <path
+     fill="#12924F"
+     d="m 135.565,202.275 c -5.258,-2.429 -6.779,-13.806 -7.013,-24.404 1.3,-17.483 1.679,-35.022 1.136,-52.545 -0.276,-9.194 0.13,-85.1584 -2.265,-96.2799 1.639,3.7668 3.526,7.4201 5.651,10.9357 5.602,8.754 27.569,21.1279 38.099,67.6092 8.203,47.941 -17.047,81.849 -35.608,94.684 z"
+     id="path3"
+     style="fill:#ffffff;fill-opacity:1" />
+</svg>
