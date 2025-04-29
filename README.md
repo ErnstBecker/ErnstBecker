@@ -1,6 +1,6 @@
 <div align="center">
   <img width="500" height="100"  src="gifs/HelloWorld.gif">
-  <p> I'm Ernst Becker, graduated in Systems Analysis and Development and a Full-Stack Engineer</p>
+  <p> I'm Ernst Becker, graduated in Systems Analysis and Development and a Full-Stack Developer</p>
 </div>
 
 
