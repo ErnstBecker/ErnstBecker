@@ -19,15 +19,15 @@
   <h3>💻 Technologies/Languages 💻</h3>
   <span>
     <img height="48" src="icons/Arch.svg" alt="Arch">
+    <img height="48" src="icons/Rust.svg" alt="Rust">
+    <img height="48" src="icons/Go.svg" alt="Go">
     <img height="48" src="icons/Python.svg" alt="Python">
     <img height="48" src="icons/JavaScript.svg" alt="JavaScript">
     <img height="48" src="icons/TypeScript.svg" alt="TypeScript">
     <img height="48" src="icons/Angular.svg" alt="Angular">
     <img height="48" src="icons/Reactjs.svg" alt="React.js">
-    <img height="48" src="icons/JQuery.svg" alt="JQuery">
     <img height="48" src="icons/Nodejs.svg" alt="Node.js">
     <img height="48" src="icons/TailwindCSS.svg" alt="Tailwind.js">
-    <img height="48" src="icons/Figma.svg" alt="Figma">
   </span>
 <div>
 
